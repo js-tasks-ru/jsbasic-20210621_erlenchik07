@@ -4,5 +4,5 @@ function factorial(n) {
     result = result * i;
   }
   console.log(result);
-  alert(result);
+  return result;
 }
