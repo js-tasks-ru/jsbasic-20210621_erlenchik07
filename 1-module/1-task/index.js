@@ -3,6 +3,5 @@ function factorial(n) {
   for (i = 1; i <= n; i++) {
     result = result * i;
   }
-  console.log(result);
-  return result;
+    return result;
 }
