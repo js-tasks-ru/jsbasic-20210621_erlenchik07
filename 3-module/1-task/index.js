@@ -1,7 +1,7 @@
 function namify(users) {
   let namesArr = [];
 
-  users.forEach(
+  users.map(
     item => namesArr.push(item.name)
   );
 
