@@ -9,4 +9,3 @@ function makeDiagonalRed(table) {
   }
   return table;
 }
-makeDiagonalRed(table);
