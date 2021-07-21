@@ -9,5 +9,5 @@ function getMinMax(str) {
     max: maxNumber
   };
 }
-console.log(getMinMax(inputData));
+
 
